@@ -66,3 +66,4 @@ if (fuelLevel > 20000 || engineIndicatorLight != 'red blinking' || commandOverri
 } else {
    console.log("Launch scrubbed!");
 }
+
